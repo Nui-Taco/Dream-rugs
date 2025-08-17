@@ -5,7 +5,6 @@ export default function Contact() {
 
   return (
     <section className="grid md:grid-cols-2 gap-8 mt-4">
-      {/* Levý sloupec: nadpis + formulář + kontakt */}
       <div>
         <h1 className="mb-4">{t('contact.title')}</h1>
         <p className="mb-6">{t('contact.subtitle')}</p>
@@ -16,13 +15,8 @@ export default function Contact() {
           encType="multipart/form-data"
           className="space-y-3"
         >
-          {/* Nastavení FormSubmit */}
           <input type="hidden" name="_captcha" value="false" />
-          <input
-            type="hidden"
-            name="_next"
-            value="https://dream-rugs.vercel.app/contact"
-          />
+          <input type="hidden" name="_next" value="https://dream-rugs.vercel.app/contact" />
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <label className="block">
@@ -66,7 +60,6 @@ export default function Contact() {
           </button>
         </form>
 
-        {/* Malým písmem údaje pod formulářem */}
         <div className="mt-8 small opacity-80">
           <p>{t('contact.companyName')}</p>
           <p>{t('contact.companyAddress')}</p>
@@ -74,7 +67,6 @@ export default function Contact() {
         </div>
       </div>
 
-      {/* Pravý sloupec: ilustrační obrázek */}
       <div className="card">
         <img
           className="rounded-xl"
