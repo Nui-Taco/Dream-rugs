@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "gallery": "Galería",
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "Alfombras a medida",
+    "subtitle": "De logotipos a motivos de animales: fabricamos según tu briefing.",
+    "ctaGallery": "Ver galería",
+    "ctaContact": "Pedir presupuesto"
+  },
+  "gallery": {
+    "title": "Galería",
+    "tabs": {
+      "logo": "Logo",
+      "sport": "Deporte",
+      "text": "Texto",
+      "animals": "Animales",
+      "custom": "Personalizado",
+      "more": "Más"
+    }
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "p1": "Pequeño taller especializado en alfombras a medida.",
+    "p2": "Te ayudamos a elegir materiales y acabados.",
+    "p3": "Envíanos un boceto y preparamos presupuesto."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Cuéntanos tu idea y añade una imagen.",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "country": "País",
+    "email": "Email",
+    "message": "Mensaje",
+    "messagePh": "Medidas, materiales…",
+    "attach": "Adjunta diseño (opcional)",
+    "send": "Enviar",
+    "sending": "Enviando…",
+    "ok": "¡Gracias! Enviado.",
+    "err": "Error. Inténtalo de nuevo.",
+    "companyName": "Dream rugs",
+    "companyAddress": "Calle Ejemplo 1, Praga",
+    "companyEmail": "info@nui-rugs.example"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "¿Cómo pedir?",
+    "a1": "Rellena el formulario.",
+    "q2": "Plazos",
+    "a2": "2–6 semanas.",
+    "q3": "¿Envío internacional?",
+    "a3": "Sí, con seguimiento."
+  },
+  "footer": {
+    "made": "Hecho con amor."
+  }
+}

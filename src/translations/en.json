@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "Custom rugs made to order",
+    "subtitle": "From logos and sports fields to animal motifs and typography – we craft rugs to your exact brief, including custom sizes and materials.",
+    "ctaGallery": "View gallery",
+    "ctaContact": "Request a quote"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "tabs": {
+      "logo": "Logo",
+      "sport": "Sport",
+      "text": "Text",
+      "animals": "Animals",
+      "custom": "Custom",
+      "more": "More"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "p1": "We are a small workshop focused on bespoke rugs with precise craftsmanship.",
+    "p2": "Our team helps you pick the right material, pile height and finishing to fit your space.",
+    "p3": "Send us your sketch or moodboard — we’ll prepare a digital mockup and quotation."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Tell us your idea. Add a drawing or reference image and specify sizes and preferred materials. We'll reply with a quotation.",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "country": "Country",
+    "email": "Email",
+    "message": "Message",
+    "messagePh": "Sizes, colors, material, deadline…",
+    "attach": "Attach your design (optional)",
+    "send": "Send request",
+    "sending": "Sending…",
+    "ok": "Thank you! Your request has been sent.",
+    "err": "Something went wrong. Please try again or email us.",
+    "companyName": "Dream rugs",
+    "companyAddress": "Sample Street 1, 110 00 Prague",
+    "companyEmail": "info@nui-rugs.example"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "How do I order a custom rug?",
+    "a1": "Use the contact form with your sizes, material preference and a reference image. We'll confirm feasibility and price.",
+    "q2": "What is the usual lead time?",
+    "a2": "Typically 2–6 weeks depending on complexity and material availability.",
+    "q3": "Do you ship internationally?",
+    "a3": "Yes. We ship EU-wide and worldwide with tracked delivery."
+  },
+  "footer": {
+    "made": "Handmade rugs with love."
+  }
+}

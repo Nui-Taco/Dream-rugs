@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "gallery": "Galerie",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "faq": "FAQ"
+  },
+  "home": {
+    "title": "Teppiche nach Maß",
+    "subtitle": "Von Logos bis Tiermotiven – wir fertigen Teppiche nach Ihrem Briefing.",
+    "ctaGallery": "Galerie ansehen",
+    "ctaContact": "Angebot anfordern"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "tabs": {
+      "logo": "Logo",
+      "sport": "Sport",
+      "text": "Text",
+      "animals": "Tiere",
+      "custom": "Individuell",
+      "more": "Mehr"
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "p1": "Wir sind eine kleine Manufaktur für maßgeschneiderte Teppiche.",
+    "p2": "Wir beraten bei Material, Florhöhe und Kanten.",
+    "p3": "Senden Sie Skizze oder Referenz – wir erstellen ein Angebot."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Beschreiben Sie Ihre Idee und fügen Sie ein Bild hinzu.",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "country": "Land",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "messagePh": "Maße, Farben, Material…",
+    "attach": "Design anhängen (optional)",
+    "send": "Anfrage senden",
+    "sending": "Senden…",
+    "ok": "Danke! Ihre Anfrage wurde gesendet.",
+    "err": "Es ist ein Fehler aufgetreten.",
+    "companyName": "Dream rugs",
+    "companyAddress": "Musterstraße 1, 110 00 Prag",
+    "companyEmail": "info@nui-rugs.example"
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "Wie bestelle ich?",
+    "a1": "Kontaktformular ausfüllen – wir melden uns.",
+    "q2": "Lieferzeit?",
+    "a2": "Meist 2–6 Wochen.",
+    "q3": "Internationaler Versand?",
+    "a3": "Ja, weltweit mit Sendungsverfolgung."
+  },
+  "footer": {
+    "made": "Handgefertigt mit Liebe."
+  }
+}
