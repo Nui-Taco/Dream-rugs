@@ -9,11 +9,11 @@ export default function Contact(){
         <h1 className="mb-4">{t('contact.title')}</h1>
         <p className="mb-6">{t('contact.subtitle')}</p>
 
-        <form action="https://formsubmit.co/ambi.sta@post.cz" method="POST" encType="multipart/form-data" className="space-y-3">
-          {/* formsubmit settings */}
-          <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_template" value="table" />
-          {/* You can set a thank-you redirect: <input type='hidden' name='_next' value='https://yourdomain/thanks' /> */}
+        <form
+  action="https://formsubmit.co/739e36c7e5c70fbaee664a25f7b90f73"
+  method="POST"
+  encType="multipart/form-data"
+>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <label className="block">
