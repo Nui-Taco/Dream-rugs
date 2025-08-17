@@ -55,9 +55,7 @@ export default function Contact() {
             <input type="file" name="attachment" accept="image/*" className="w-full card" />
           </label>
 
-          <button className="btn btn-primary">
-            {t('contact.send')}
-          </button>
+          <button className="btn btn-primary">{t('contact.send')}</button>
         </form>
 
         <div className="mt-8 small opacity-80">
