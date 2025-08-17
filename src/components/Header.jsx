@@ -16,9 +16,9 @@ export default function Header(){
 
   return (
     <header className="sticky top-0 z-40 bg-white/90 backdrop-blur border-b border-black/5">
-      <div className="max-w-6xl mx-auto flex items-center justify-between p-3">
+      <div className="max-w-6xl mx-auto flex items-center justify-between px-3 py-2 md:py-3">
         
-        {/* Logo vlevo */}
+        {/* Logo vlevo – větší a responsivní */}
         <Link 
           to="/" 
           className="flex items-center gap-2 py-1 px-2" 
@@ -27,7 +27,7 @@ export default function Header(){
           <img 
             src={logo} 
             alt="Dream rugs logo" 
-            className="h-12 md:h-16 w-auto object-contain" 
+            className="h-20 md:h-24 w-auto object-contain" 
           />
         </Link>
         
