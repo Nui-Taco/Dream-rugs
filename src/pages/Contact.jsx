@@ -14,6 +14,10 @@ export default function Contact(){
   method="POST"
   encType="multipart/form-data"
 >
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="hidden" name="_next" value="https://dream-rugs.vercel.app/contact" />
+  ...
+</form>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <label className="block">
